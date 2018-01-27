@@ -1,0 +1,31 @@
+ 
+FTP Connection 05/01/2012 17:01
+GSiteCrawler v1.23 rev. 286
+----------------------------------------
+Connecting to www.autotribali.com...
+Connect to www.autotribali.com:21 with user tribali
+Connected.
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 7 of 50 allowed.
+220-Local time is now 10:01. Server port: 21.
+220 You will be disconnected after 15 minutes of inactivity.
+331 User tribali OK. Password required
+230 OK. Current restricted directory is /
+Password ok
+*** CONNECTION OK ***
+257 "/" is your current location
+Checking Remote Directory /www ...
+ERROR!: Session aborted.
+Connection Closed.
+ERROR!: A method is currently blocking the thread. Some PowerTcp methods are not reentrant. For example, if you set a timer and enter the Receive method with a Timeout, and attempt to enter the Receive method again, then this error is generated.
+Directory DOESN'T EXIST
+ERROR: Directory /www doesn't exist!
+Putting D:\AUTOTRIBALI.COM\web\sitemap.xml.gz ...
+ERROR!: Receive or Send method failed. The socket is not connected.
+Put failed: Error 10057: Receive or Send method failed. The socket is not connected.
+Putting  ...
+ERROR!: Parameter 1 of the method used is invalid or not appropriate.
+Put failed: Error 12001: Parameter 1 of the method used is invalid or not appropriate.
+TOTAL 3 ERRORS.
+ERROR!: Receive or Send method failed. The socket is not connected.
+ERROR!: Receive or Send method failed. The socket is not connected.

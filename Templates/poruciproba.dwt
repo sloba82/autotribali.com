@@ -1,0 +1,303 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-color: #000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #0593DD;
+	text-decoration: none;
+}
+a:visited {
+	color: #0593DD;
+	text-decoration: none;
+}
+a:hover {
+	color: #0593DD;
+	text-decoration: none;
+}
+a:active {
+	color: #0593DD;
+	text-decoration: none;
+}
+.r {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #0593DD;
+}
+#header h1 {
+	color: #FFF;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.g span font span b font {
+	text-align: left;
+}
+.style1 {
+	text-align: left;
+}
+.style3 {
+	color: #FFFFFF;
+}
+.style4 {
+	text-align: left;
+	color: #FFFFFF;
+}
+.style5 {
+	color: #00FFFF;
+}
+.style6 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style7 {
+	color: #00FFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+.style8 {
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+.style9 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+.style10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+.style11 {
+	font-size: x-small;
+}
+.style12 {
+	font-size: small;
+}
+.style13 {
+	color: #00FFFF;
+	font-size: x-large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style14 {
+	font-size: x-large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">&nbsp;
+      <table width="90%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td align="center" valign="middle">&nbsp;</td>
+          <td align="center" valign="middle" style="width: 647px"><form method="POST" name="tribal" action="/cgi-sys/FormMail.cgi">
+            <div class="style1">
+				<input name="ime" type="text" style="width: 200px; height: 20px" size="100" class="style1" /><span class="style9"> 
+				Ime / </span><span class="style7">Name</span><p align="left" class="style1">
+				<span class="style6"><span class="style11">
+				<span class="style12">
+				<input name="prezime" type="text" style="width: 200px; height: 21px" size="100" /></span></span></span>
+				<span class="style9">Prezime / </span><span class="style7">Last 
+				name</span></p>
+				<p align="left" class="style1"><span class="style6">
+				<span class="style11"><span class="style12">
+				<input name="ulica" type="text" size="100" style="height: 20px; width: 348px" /></span></span></span><span class="style3">
+				<span class="style10">Ulica i broj /</span></span><span class="style7">
+				</span><span id="result_box6" class="short_text" lang="en">
+				<span class="style7">Street address</span> <span class="style7">
+				and number</span></span></p>
+				<p align="left" class="style1"><span class="style6">
+				<span class="style11"><span class="style12">
+				<input name="grad" type="text" size="100" style="width: 200px; height: 20px" /></span></span></span><span class="style9"> 
+				Grad, mesto / </span><span class="style7">City</span></p>
+				<p align="left" class="style1"><span class="style6">
+				<span class="style11"><span class="style12">
+				<input name="Text1" type="text" style="width: 200px; height: 19px" /></span></span></span><span class="style7"> 
+				Province</span></p>
+				<p align="left" class="style1"><span class="style6">
+				<span class="style11"><span class="style12">
+				<input name="postanskibroj" type="text" size="20" style="width: 200px; height: 20px" /></span></span></span><span class="style3">
+				<span class="style10">Poštanski broj / </span></span>
+				<span class="style7">Zip code</span></p>
+				<p align="left" class="style1"><span class="style6">
+				<span class="style11"><span class="style12">
+				<select name="drzava" style="width: 200px; height: 20px">
+				<option>SRBIJA</option>
+				<option>ALBANIA</option>
+				<option>AUSTRALIA</option>
+				<option>AUSTRIA</option>
+				<option>BELGIUM</option>
+				<option>BELARUS</option>
+				<option>BOSNIA AND HERZEGOVINA</option>
+				<option>BRAZIL</option>
+				<option>BULGARIA</option>
+				<option>CZECH REPUBLIC</option>
+				<option>MONTENEGRO</option>
+				<option>DENMARK</option>
+				<option>ESTONIA</option>
+				<option>FINLAND</option>
+				<option>FRANCE</option>
+				<option>GREECE</option>
+				<option>GEORGIA</option>
+				<option>NETHERLANDS</option>
+				<option>HONG KONG</option>
+				<option>CROATIA</option>
+				<option>INDIA</option>
+				<option>IRELAND</option>
+				<option>ITALY</option>
+				<option>ISRAEL</option>
+				<option>JAPAN</option>
+				<option>ARMENIA</option>
+				<option>SOUTH AFRICA</option>
+				<option>CANADA</option>
+				<option>KAZAKHSTAN</option>
+				<option>CHINA</option>
+				<option>CYPRUS</option>
+				<option>LATVIA</option>
+				<option>LITHUANIA</option>
+				<option>LUXEMBOURG</option>
+				<option>HUNGARY</option>
+				<option>MACEDONIA</option>
+				<option>MALTA</option>
+				<option>MEXICO</option>
+				<option>MOLDOVA</option>
+				<option>GERMANY</option>
+				<option>NORWAY</option>
+				<option>NEW ZEALAND</option>
+				<option>POLAND</option>
+				<option>PORTUGAL</option>
+				<option>ROMANIA</option>
+				<option>RUSSIA</option>
+				<option>SAUDI ARABIA</option>
+				<option>UNITED STATES</option>
+				<option>SLOVAKIA</option>
+				<option>SLOVENIA</option>
+				<option>SPAIN</option>
+				<option>SWITZERLAND</option>
+				<option>SWEDEN</option>
+				<option>TURKEY</option>
+				<option>UNITED ARAB EMIRATES</option>
+				<option>UKRAINE</option>
+				<option>UNITED KINGDOM</option>
+				</select></span></span></span><span class="style3">
+				<span class="style10">Država /</span></span><span class="style7"> 
+				Country</span></p>
+				<p align="left" class="style1"><span class="style6">
+				<span class="style11"><span class="style12">
+				<input name="email" type="text" style="width: 267px; height: 20px" size="35" /></span></span></span>
+				<span class="style9">E-mail</span></p>
+				<p align="left" class="style8">&nbsp;</p>
+				<p align="left" class="style4"><span class="style14">Unesi 
+				dimenzije nalepnice / </span>
+				<span id="result_box" class="style5" lang="en">
+				<span class="style14">Set the size of the</span>
+				<span class="style14">sticker</span></span></p>
+				<p align="left" class="style4"><span class="style6">
+				<span class="style11"><span class="style12">
+				<input name="sirina" type="text" size="10" style="width: 90px; height: 20px" /></span></span></span>
+				<span class="style10">Širina u cm / </span>
+				<span id="result_box1" class="short_text" lang="en">
+				<span class="style7">Width </span></span><span class="style5">
+				<span class="style10">in cm </span>
+				<span id="result_box0" class="short_text" lang="en">
+				<span class="style10">units</span></span></span></p>
+				<p align="left" class="style4"><span class="style6">
+				<span class="style11"><span class="style12">
+				<input name="visina" type="text" style="width: 90px; height: 20px" size="10" /></span></span></span>
+				<span class="style10">Visina u cm / </span>
+				<span id="result_box2" class="short_text" lang="en">
+				<span class="style7">Height in cm units</span></span></p>
+				<p align="left" class="style4"><span class="style6">
+				<span class="style11"><span class="style12"><select size="1" name="bojanelepnice"><option>010</option><option>020</option><option>019</option><option>021</option><option>022</option><option>025</option><option>026</option><option>312</option><option>030</option><option>031</option><option>032</option><option>047</option><option>034</option><option>036</option><option>035</option><option>404</option><option>040</option><option>043</option><option>042</option><option>041</option><option>045</option><option>562</option><option>518</option><option>050</option><option>065</option><option>049</option><option>086</option><option>067</option><option>057</option><option>051</option><option>098</option><option>052</option><option>084</option><option>053</option><option>056</option><option>066</option><option>054</option><option>055</option><option>060</option><option>613</option><option>061</option><option>068</option><option>062</option><option>064</option><option>063</option><option>080</option><option>083</option><option>081</option><option>082</option><option>023</option><option>070</option><option>073</option><option>071</option><option>076</option><option>074</option><option>072</option><option>090</option><option>091</option><option>092</option></select></span></span></span>
+				<span class="style10">Odaberi boju nalepnice prema paleti boja 
+				iz sekcije &quot;boje&quot; / </span>
+				<span id="result_box3" class="" lang="en"><span class="style7">
+				Pick a color </span></span><span class="style5">
+				<span id="result_box4" class="short_text" lang="en">
+				<span class="style10">of the</span> <span class="style10">
+				sticker</span></span><span id="result_box3" class="" lang="en">
+				<span class="style10">by </span></span>
+				<span id="result_box5" class="short_text" lang="en">
+				<span class="style10">using</span></span></span><span id="result_box3" class="" lang="en"><span class="style5"><span class="style10"> 
+				the</span> <span class="style10">color palette</span>
+				<span class="style10">from the section</span></span>
+				<span class="style10">&quot;</span></span><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; "><span class="style10" style="color: rgb(5, 147, 221); text-align: -webkit-center; -webkit-border-horizontal-spacing: 5px; -webkit-border-vertical-spacing: 5px;"><a style="color: rgb(5, 147, 221); text-decoration: none; " href="../boje/vinylcolors.html">Vinyl 
+				colors</a></span></span><span id="result_box3" class="" lang="en"><span class="">&quot;</span></span></p>
+				<p align="left" class="style4">&nbsp;</p>
+				<p align="left" class="style4">
+				<span lang="en-us" class="style14">Dodatne opcije / </span>
+				<span id="result_box8" class="short_text" lang="en">
+				<span class="style13">More Options</span></span></p>
+				<p align="left" class="style4">
+				<input name="obestranevozila" type="checkbox" style="height: 20px" value="obestranevozila" /><span class="style10"> 
+				Nalepnice za obe strane vozila, dve nalepnice (slika kao u 
+				ogledalu) / </span><span id="result_box9" class="" lang="en">
+				<span class="style5"><span class="style10">Stickers</span>
+				<span class="style10">on both</span> <span class="style10">sides 
+				of the vehicle, two</span> <span class="style10">labels</span>
+				<span class="style10">(as in a mirror</span>
+				<span class="style10">image</span></span><span class="style10">)</span></span></p>
+				<p align="left" class="style4"><span class="style12">
+				<span class="style6"><input name="Checkbox1" type="checkbox" /> 
+				Vertikalno rotirana nalepnica, slika kao u ogledalu / </span>
+				</span><span id="result_box10" class="style5" lang="en">
+				<span class="style10">Vertically</span> <span class="style10">
+				rotated</span> <span class="style10">sticker,</span>
+				<span class="style10">as in a mirror</span>
+				<span class="style10">image</span></span></p>
+				<p align="left" class="style4"><span class="style12">
+				<span class="style6"><input name="Checkbox2" type="checkbox" /></span></span>
+				<span class="style10">Horizontalno rotirana nalepnica, sliko kao 
+				u ogledalu / </span>
+				<span id="result_box11" class="style5" lang="en">
+				<span class="style10">Horizontally</span> <span class="style10">
+				rotated</span> <span class="style10">sticker,</span>
+				<span class="style10">as in a mirror</span>
+				<span class="style10">image</span></span></p>
+				<p align="left" class="style4">&nbsp;</p>
+				<p align="left" class="style1">&nbsp;</p>
+				<p align="left" class="style1">&nbsp;</p>
+				<p align="left" class="g">&nbsp;</p>
+				<p align="left" class="g">&nbsp;</p>
+    <p align="left" class="g"><span style="font-style: normal">
+	<font color="#FFFFFF" face="Arial">
+	&nbsp;</font></span></p>
+    <p class="style1"><span style="font-style: normal"><input type="submit" value="Submit" name="B1"><input type="reset" value="Reset" name="B2"></p>
+    <input type="hidden" name="recipient" value="tribali@autotribali.com">
+  	</span></div>
+  </form>&nbsp;</td>
+          <td align="center" valign="middle">&nbsp;</td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><p class="footnote"><!-- TemplateBeginEditable name="EditRegion1" --><span class="r">EditRyxyerewee</span>n1<!-- TemplateEndEditable -->&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><br>
+<!-- Begin moneybookers button code -->
+<a href="http://www.moneybookers.com/" target="_blank"><img style="border-width: 1px; border-color: #8B8583;" src="http://www.moneybookers.com/images/banners/en/en_international_customers_120x60.gif"  border=0></a>
+<!-- End of moneybookers button code -->&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

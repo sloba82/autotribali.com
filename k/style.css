@@ -1,0 +1,310 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+body {
+	margin:0;
+	padding:0;
+	background:#190802;
+	background-attachment: fixed;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-image:url(materijal/pozadinaKompres.jpg);
+	}
+
+header, section, footer, aside, nav, main, article, figure {
+    display: block; 
+	}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Comfortaa', cursive;
+	font-weight:100;
+	margin:0;
+	padding:0;
+	}                 
+
+
+
+img {
+	max-width:100%;
+	padding:0;
+	margin:0;
+	display:block;
+	} 
+	
+#wrapper{
+	margin:auto;
+	}
+	
+#header{
+	margin:auto;
+	width:1200px;
+	clear:both;
+	}
+	
+.naslov{
+	width:400px;
+	float:left;
+	
+	}
+	
+.naslov img{
+	padding-top:242px;
+	}
+
+.slika {
+	width:800px;
+	float:right;
+	}
+
+	
+#nav{
+	background:rgba(0,0,0,0.3);
+	clear:both;
+	}
+	
+#nav ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+	}
+	
+#nav ul li {
+	float:left;
+	}
+	
+#nav ul li a {
+	display:block;
+	padding:20px;
+	margin-right:4px;
+	text-decoration:none;
+	color:#CCC;
+	
+	}	
+	
+#centarNav {
+	width:1200px;
+	clear:both;
+	margin:auto;
+	overflow:hidden;
+	}
+	
+#centarNav a:link, 
+#centarNav a:visited {
+	color:#fff;
+	background:rgba(0,0,0,0.3);
+	}
+#centarNav a:hover {
+	text-decoration:none;
+	background:rgba(0,0,0,0.7);
+	color:#fff;
+	}
+	
+#sredina {
+	margin:auto;
+	width:1200px;
+	}
+	
+#main {
+	width:760px;
+	padding:20px 20px 20px 0;
+	float:left;
+	color:#FFF;
+	}
+	
+#main p {
+	font-size:20px;
+	}
+	
+
+	
+#sidebar {
+	width:400px;
+	float:right;
+	}
+	
+.najavaPrva,
+.najavaDruga {
+	margin:0;
+	padding:10px;
+	overflow:hidden;
+	color:#FFF;
+	}
+
+.najavaPrva img{
+	display:block;
+	float:left;
+	padding:5px;
+	}
+	
+.najavaDruga img{
+	display:block;
+	float:left;
+	padding:5px;
+	}
+
+.najavaPrva h4 {
+	margin:0;
+	padding:0;
+	}
+	
+.najavaDruga h4 {
+	margin:0;
+	padding:0;
+	}
+
+.najavaPrva {
+	background:rgba(0,0,0,0.1);
+	}
+	
+.najavaDruga{
+	background:rgba(0,0,0,0.3);
+	}
+	
+.najavaPrva:hover{
+	border-bottom:1px #FFFFFF solid;
+	background:rgba(0,0,0,0.5);
+	}
+
+.najavaDruga:hover{
+	border-bottom: 1px #FFFFFF solid;
+	background:rgba(0,0,0,0.5);
+	}
+	
+	
+/*///////////forma/////////*/
+
+#formaDiv {
+	
+	margin:30px 0 30px 0;
+	padding:20px;
+	background:rgba(0,0,0,0.5);
+	}
+	
+#formaDiv h1,h2,h3,h4,h5,h6 {
+	padding-bottom:5px;
+	}
+
+#forma p{
+	color:#FFF;
+	font-size:16;
+	}
+
+#Ime {
+	background:none;
+	border:1px solid #FFF;
+	color:#FFF;
+	}
+#email{
+	background:none;
+	border:1px solid #FFF;
+	color:#FFF;
+	}
+#textfield{
+	background:none;
+	border:1px solid #FFF;
+	color:#FFF;
+	}
+#textarea{
+	background:none;
+	border:1px solid #FFF;
+	color:#FFF;
+	}
+#submit {
+	margin:10px 0 0;
+	}
+	
+#formaDiv fieldset {
+	padding: 10px;
+	border: 1px solid #FFF;
+	border-radius: 4px;
+	}
+	
+	
+/*///////////forma/////////*/
+
+	
+	
+#sitemap ul a{
+	display:block;
+	text-decoration:none;
+	padding-bottom:10px;
+	color:#FFF;
+	font-size:18px;
+	}
+	
+#sitemap h1,h2,h3,h4,h5,h6 {
+	color:#FFF;
+	}
+
+#sitemap ul a:hover{
+	color:#CCC;
+	}
+	
+
+#footer{
+ 	clear:both;
+	}
+	
+#footer{
+	height:300px;
+	border-top:4px #000000 solid;
+	background:rgba(0,0,0,0.5);
+	}
+	
+#sitemap {
+	width:1200px;
+	margin:auto;
+	padding-top:20px;
+	}
+
+	
+#sitemap ul {
+	list-style:none;
+	padding:0;
+	}
+	
+	
+	
+	
+	
+	
+
+
+@media screen and (min-width:1024px) and (max-width:1300px) {
+
+
+	}
+
+
+
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+
+}
+
+
+
+
+@media screen and (max-width:480px) {
+
+.naslov,
+.slika,	
+#nav,
+#main,	
+#sidebar,
+#footer{
+	float:none;
+	width:440px;
+	}
+.slika {
+	display:none;
+	}
+.naslov img {
+	padding:5px;
+	}	
+
+}

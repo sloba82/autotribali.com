@@ -1,0 +1,258 @@
+<? date_default_timezone_set('Europe/Belgrade'); ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>AutoTribali.com poruči nalepnice za kola</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+a:link {
+	text-decoration: none;
+	color: #0593DD;
+}
+a:visited {
+	text-decoration: none;
+	color: #0593DD;
+}
+a:hover {
+	text-decoration: none;
+	color: #0593DD;
+}
+a:active {
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0593DD;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000;
+}
+.a {
+	color: #0593DD;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 16px;
+	text-decoration: none;
+}
+.b {
+	font-size: 12px;
+	font-weight: normal;
+}
+.c {
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: left;
+	font-weight: normal;
+	font-style: normal;
+}
+body p {
+	text-align: left;
+}
+.d {
+	font-size: 14px;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+}
+.e {
+	text-align: center;
+	color: #0593DD;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.c1 {color: #FFF; font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: left; }
+.t {	font-size: 12px;
+	color: #6CF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
+</style>
+<script src="../SpryAssets/SpryEffects.js" type="text/javascript"></script>
+<script type="text/javascript">
+function MM_effectShake(targetElement)
+{
+	Spry.Effect.DoShake(targetElement);
+}
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="100%" height="452" border="0" align="center">
+  <tr>
+    <td height="198" colspan="2" align="center" valign="middle"><img src="../zaglavlje 2.jpg" width="100%" height="212" /></td>
+  </tr>
+  <tr>
+    <td width="81%" height="248" align="right" valign="top"><table width="80%" height="1350" border="0" align="right">
+      <tr>
+        <td width="188" height="21">&nbsp;</td>
+        <td width="488" align="center" valign="middle" class="a">&nbsp;</td>
+        <td width="188">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="229" align="right" valign="top"><table width="100%" border="0" cellspacing="4">
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#191919" class="a"><a href="../index.html"><img src="../linkovi/nalepnice.gif" width="81" height="17" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#000000"><a href="../galerija/index.html"><img src="../linkovi/galerija-tribala.gif" width="112" height="15" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td align="right" valign="middle" bgcolor="#191919"><a href="../boje/index BOJE.html"><img src="../linkovi/boje.gif" width="41" height="17" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#000000"><a href="../dimenzije tribala/dimenzije.html"><img src="../linkovi/dimenzije-tribala.gif" width="128" height="15" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#191919"><a href="../cenovnik/cenovnik.html"><img src="../linkovi/cenovnik.gif" width="74" height="12" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#000000"><a href="../porucivanje/porucibanje.html"><img src="../linkovi/porucivanje.gif" width="92" height="15" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#191919"><a href="../pitanja/pitanja i odgovori.html"><img src="../linkovi/pitanja-i-odgovori.gif" width="135" height="15" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#000000"><a href="../lepljenje/lepljenje.html" class="a">Kako zalepiti?</a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#191919"><a href="../jos_nalep/jos_nalep.html" class="a">* Još nalepnica *</a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#000000" class="a"><a href="../majice/majice.html">Majice</a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" bgcolor="#191919" class="a"><a href="../kontakt/kontakt.html">Kontakt</a></td>
+          </tr>
+          <tr>
+            <td height="17" align="right" valign="middle" class="a"><a href="../besplatno/besplatno.html">Besplatno</a></td>
+          </tr>
+        </table></td>
+        <td rowspan="2" align="center" valign="top" class="a"><table width="98%" border="0" cellspacing="5">
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td class="c">Dostava nalepnica se vrši brzom poštom i naplaćuje se prilikom preuzimanja paketa, tako što će vam komplet naplatiti kurir.</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td class="c">Na teritoriji Novog Sada moguće lično preuzimanje (dogovor).</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td><p>Prilikom poručivanja potrebno je da navedete sledeće podatke:</p></td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td>1. šifru tribala ili npr. - AT 12 </td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td>2. boju tribala, sjajna ili mat npr. -  051 sjajna</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td>3. dimenzije tribala npr. -  185x37cm</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td>4. model vozila i godinu proizvodnje npr. - mazda 6 2004</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td bgcolor="#141414">5. Ime i prezime poručioca i adresa na koju se šalje komplet npr. - Petar Petrović, Maksima Gorkog 6, 11000 Beograd.</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td bgcolor="#141414">6. Kontakt telefon</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td bgcolor="#000000">&nbsp;</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td>Poručivanje možete obaviti na nekoliko načina:</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td>E-MAIL-om na : <a href="mailto:autotribali@gmail.com">autotribali@gmail.com</a></td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td>SMS-om ili pozivom na mob: 064 24 65 848</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td>Popunjavanjem kontakt forme (klikni)</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td class="c">Bilo koji način poručivanja da odaberete morate navesti potrebne podatke. Pre izrade tribala bićete kontaktirani radi potvrde porudžbine.</td>
+          </tr>
+          <tr align="left" valign="top" bgcolor="#141414">
+            <td class="a">Postavite pitanje (klikni)</td>
+          </tr>
+        </table></td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="right" valign="top"><table width="64" height="95" border="0">
+          <tr>
+            <td>&nbsp;</td>
+            <td align="right" valign="middle"><a href="http://www.postexpress.rs/"><img src="../porucivanje/posta.gif" width="94" height="39" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td align="right" valign="middle">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td align="right" valign="middle"><!-- TemplateBeginEditable name="EditRegion1" -->
+            <table width="150" border="0" cellspacing="5" id="1">
+              <tr>
+                <td height="3" align="left" class="c1"><hr size="1" /></td>
+              </tr>
+              <tr>
+                <td align="right" bgcolor="#141414"><span class="t">Tribali</span></td>
+              </tr>
+              <tr>
+                <td align="right"><a href="../galerija/index.html"><img src="../galerija/thumbnails/AT-55.jpg" width="150" height="55" border="0" onmouseover="MM_effectShake(this)" /></a></td>
+              </tr>
+              <tr>
+                <td align="right">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="right"><hr size="1" /></td>
+              </tr>
+              <tr>
+                <td align="right" bgcolor="#141414"><span class="t">Nalepnice</span></td>
+              </tr>
+              <tr>
+                <td height="65" align="right"><a href="../jos_nalep/jos_nalep.html"><img src="../jos_nalep/meni-nalep.gif" width="150" height="95" border="0" onmouseover="MM_effectShake(this)" /></a></td>
+              </tr>
+              <tr>
+                <td align="right">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="right"><hr size="1" /></td>
+              </tr>
+              <tr>
+                <td align="right" bgcolor="#141414"><span class="t">Majice</span></td>
+              </tr>
+              <tr>
+                <td align="right"><a href="../majice/majice.html"><img src="../majice/primer-2-mala.jpg" width="150" height="113" border="0" onmouseover="MM_effectShake(this)" /></a></td>
+              </tr>
+              <tr>
+                <td align="right">&nbsp;</td>
+              </tr>
+              <tr>
+                <td align="right">&nbsp;</td>
+              </tr>
+            </table>
+            <!-- TemplateEndEditable --></td>
+          </tr>
+          </table></td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+    <td width="19%" align="right" valign="top"><img src="../zalepljen3a.jpg" width="222" height="444" /></td>
+  </tr>
+</table>
+</body>
+</html>

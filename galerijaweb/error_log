@@ -1,0 +1,1 @@
+[19-Feb-2016 15:29:35 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tribali_tribali'@'192.185.110.172' (using password: YES) in /home/tribali/public_html/galerijaweb/proba.php on line 8

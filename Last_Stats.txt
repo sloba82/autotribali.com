@@ -1,0 +1,58 @@
+Statistics for autotribali.com    Date: 13/07/2011 20:52
+
+Main URL: http://www.autotribali.com/  (Case sensitive)
+
+Number of URLs listed total: 427
+Number of URLs listed to be included: 427
+Number of URLs listed to be crawled: 299
+Number of URLs still waiting in the crawler: 0 (may include some already listed)
+Number of URLs aborted in the crawler: 2
+    http://www.autotribali.com/forma/myform.html linked from [GOOGLE]
+    http://www.autotribali.com/NiceSimpleContactForm/NiceSimpleContactForm linked from [GOOGLE]
+Top 20 oldest included URLs:
+    http://www.autotribali.com/zalepljen3a.jpg (36 days)
+    http://www.autotribali.com/zaglavlje 2.jpg (13 days)
+    http://www.autotribali.com/BANER 120X60.jpg (8 days)
+    http://www.autotribali.com/baner468x60.jpg (8 days)
+    http://www.autotribali.com/besplatno/alpine.jpg (5 days)
+    http://www.autotribali.com/boje/index BOJE.html (5 days)
+    http://www.autotribali.com/boje/index%20BOJE.html (5 days)
+    http://www.autotribali.com/boje/boje 1 mala.jpg (5 days)
+    http://www.autotribali.com/boje/BOJE 1 OBRADA.jpg (5 days)
+    http://www.autotribali.com/boje/boje 2 mala.jpg (5 days)
+    http://www.autotribali.com/boje/BOJE 2 OBRADA.jpg (5 days)
+    http://www.autotribali.com/boje/metalik mala.jpg (5 days)
+    http://www.autotribali.com/boje/metalik velika.jpg (5 days)
+    http://www.autotribali.com/brend/brend.html (5 days)
+    http://www.autotribali.com/dimenzije%20tribala/FOTKE/AT-12-DIM.gif (5 days)
+    http://www.autotribali.com/dimenzije%20tribala/FOTKE/AT-22-DIM.gif (5 days)
+    http://www.autotribali.com/dimenzije%20tribala/FOTKE/AT-38-DIM.gif (5 days)
+    http://www.autotribali.com/dimenzije%20tribala/FOTKE/AT-41-DIM.gif (5 days)
+    http://www.autotribali.com/galerija/images/arrow_next.gif (5 days)
+
+Ban URLs with these texts in them from being crawled:
+
+
+Drop these parts of URLs being crawled:
+
+
+Remove these parameters when specified while being crawled:
+    osCsid
+    PhpSessId
+    PhpSessionId
+    s
+    Session
+    SessionId
+    SID
+    XTCsid
+
+ROBOTS.TXT from 19/06/2011 02:15:
+    User-agent: *
+    Allow: /
+    
+    
+    
+
+
+End of data.
+

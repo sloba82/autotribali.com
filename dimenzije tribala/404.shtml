@@ -1,0 +1,28 @@
+<style type="text/css">
+body {
+	background-color: #F0F8FF;
+}
+.d {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #0F0;
+	font-size: 24px;
+}
+.d {
+	color: #900;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.d .d {
+	color: #09C;
+}
+.d .d {
+	color: #039;
+}
+</style>
+
+<p class="d"><strong class="d">Stranica koju trazite
+  ne postoji
+ </strong></p>
+<p class="d">&nbsp;</p>
+<p class="d"><a href="../index.html">index</a><!-- 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+--></p>

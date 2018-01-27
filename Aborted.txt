@@ -1,0 +1,10 @@
+Failed at 14/04/2012 17:56:
+   URL:               http://www.autotribali.com/foto/dimenzije.html
+   Error:             HTTP-Error 404 Not Found
+   Linked from:       http://www.autotribali.com/foto/foto.html
+ 
+Failed at 14/04/2012 17:56:
+   URL:               http://www.autotribali.com/boje/galerija/index.html
+   Error:             HTTP-Error 404 Not Found
+   Linked from:       http://www.autotribali.com/boje/vinylcolors.html
+ 

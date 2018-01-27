@@ -1,0 +1,36 @@
+ 
+FTP Connection 09/08/2011 01:10
+GSiteCrawler v1.23 rev. 286
+----------------------------------------
+Connecting to www.autotribali.com...
+Connect to www.autotribali.com:21 with user tribali
+Connected.
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 2 of 50 allowed.
+220-Local time is now 18:10. Server port: 21.
+220 You will be disconnected after 15 minutes of inactivity.
+331 User tribali OK. Password required
+230 OK. Current restricted directory is /
+Password ok
+*** CONNECTION OK ***
+257 "/" is your current location
+Checking Remote Directory /www ...
+250 OK. Current directory is /www
+Directory exists
+250 OK. Current directory is /
+250 OK. Current directory is /www
+Putting D:\AUTOTRIBALI.COM\web\sitemap.xml.gz ...
+200 TYPE is now 8-bit binary
+227 Entering Passive Mode (174,132,79,219,109,144)
+150 Accepted data connection
+226-File successfully transferred
+226 1.145 seconds (measured here), 9.04 Kbytes per second
+Putting \gss.xsl ...
+227 Entering Passive Mode (174,132,79,219,55,127)
+150 Accepted data connection
+226-File successfully transferred
+226 0.214 seconds (measured here), 37.40 bytes per second
+221-Goodbye. You uploaded 11 and downloaded 0 kbytes.
+221 Logout.
+Connection Closed.
+ERROR!: Receive or Send method failed. The socket is not connected.

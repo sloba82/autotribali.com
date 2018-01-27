@@ -1,0 +1,23 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="sr">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<!-- #BeginEditable "doctitle" -->
+<title>majica</title>
+<!-- #EndEditable -->
+</head>
+
+<body>
+
+<form method="POST" name="pitanje" action="--WEBBOT-SELF--">
+	<!--webbot bot="SaveResults" -->
+	<p><input type="text" name="T1" size="20">majica</p>
+	<p><input type="text" name="T2" size="40">bla bla</p>
+	<p>&nbsp;</p>
+	<p><input type="submit" value="Submit" name="B1"><input type="reset" value="Reset" name="B2"></p>
+</form>
+
+</body>
+
+</html>

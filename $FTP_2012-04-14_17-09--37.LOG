@@ -1,0 +1,19 @@
+ 
+FTP Connection 14/04/2012 17:09
+GSiteCrawler v1.23 rev. 286
+----------------------------------------
+Connecting to www.autotribali.com...
+Connect to www.autotribali.com:21 with user tribali
+Connected.
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 2 of 50 allowed.
+220-Local time is now 10:09. Server port: 21.
+220 You will be disconnected after 15 minutes of inactivity.
+331 User tribali OK. Password required
+530 Login authentication failed
+Error after password
+ERROR!: Session aborted.
+Connection Closed.
+Error on Login: 11101 - 530 Login authentication failed
+*** CONNECTION ATTEMPT FAILED ***
+ERROR!: Receive or Send method failed. The socket is not connected.
